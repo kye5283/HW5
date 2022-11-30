@@ -1,0 +1,4 @@
+﻿  6_36.c
+c:\users\user\desktop\hw5\6.36\sourse\6_36.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\hw5\6.36\sourse\6_36.c(22): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  6_36.vcxproj -> C:\Users\user\Desktop\HW5\6.36\6_36\x64\Debug\6_36.exe
